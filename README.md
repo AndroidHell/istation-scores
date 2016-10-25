@@ -1,10 +1,11 @@
-  _  _____ _        _   _                _____                         
- (_)/ ____| |      | | (_)              / ____|                        
-  _| (___ | |_ __ _| |_ _  ___  _ __   | (___   ___ ___  _ __ ___  ___ 
- | |\___ \| __/ _` | __| |/ _ \| '_ \   \___ \ / __/ _ \| '__/ _ \/ __|
- | |____) | || (_| | |_| | (_) | | | |  ____) | (_| (_) | | |  __/\__ \
- |_|_____/ \__\__,_|\__|_|\___/|_| |_| |_____/ \___\___/|_|  \___||___/
-                                                                       
+     _  _____ _        _   _                _____                         
+    (_)/ ____| |      | | (_)              / ____|                        
+     _| (___ | |_ __ _| |_ _  ___  _ __   | (___   ___ ___  _ __ ___  ___ 
+    | |\___ \| __/ _` | __| |/ _ \| '_ \   \___ \ / __/ _ \| '__/ _ \/ __|
+    | |____) | || (_| | |_| | (_) | | | |  ____) | (_| (_) | | |  __/\__ \
+    |_|_____/ \__\__,_|\__|_|\___/|_| |_| |_____/ \___\___/|_|  \___||___/
+                                                                      
+                                                                      
 
 ## Project Overview
 + written in HTML and JavaScript
@@ -22,7 +23,7 @@
 + If they are at around the month's score, gives an "OK"
 + If they are behind by 4 or more months, calculates what they need to achieve to cactch up
 
-##TODO:
+## TODO:
 + Calculate how much per month a student who is behind should be progressing
 + Calculate how much per month a student who is ahead should be progressing
 + Possibly export table as a .xlsx or .csv file
